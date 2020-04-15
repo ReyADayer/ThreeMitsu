@@ -1,0 +1,4 @@
+name: ThreeMitsu
+version: @version@
+main: net.atlantis.threemitsu.ThreeMitsu
+api-version: 1.13
